@@ -1,0 +1,20 @@
+#nome{
+	display: list-item;
+	vertical-align: top;
+}
+#sobrenome{
+	display: list-item;
+	vertical-align: top;
+}
+#email{
+	display: list-item;
+	vertical-align: top;
+}
+#telefone{
+	display: list-item;
+	vertical-align: top;
+}
+#mensagem{
+	display: list-item;
+	vertical-align: top;
+}
